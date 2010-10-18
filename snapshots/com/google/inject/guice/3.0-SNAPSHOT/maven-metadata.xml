@@ -5,14 +5,14 @@
   <version>3.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20101018.002814</timestamp>
+      <timestamp>20101018.133744</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20101018002814</lastUpdated>
+    <lastUpdated>20101018133744</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
-        <value>3.0-20101018.002814-1</value>
-        <updated>20101018002814</updated>
+        <value>3.0-20101018.133744-1</value>
+        <updated>20101018133744</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
