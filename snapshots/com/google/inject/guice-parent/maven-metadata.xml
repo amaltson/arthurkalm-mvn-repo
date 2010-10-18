@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.0.0">
+  <groupId>com.google.inject</groupId>
+  <artifactId>guice-parent</artifactId>
+  <versioning>
+    <versions>
+      <version>3.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20101018005710</lastUpdated>
+  </versioning>
+</metadata>
